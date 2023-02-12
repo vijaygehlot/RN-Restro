@@ -11,9 +11,8 @@
 
 Android
 ```
-  > git clone git@github.com:smalltide/TalkMap.git
-  > cd TalkMap
-  > npm install
-  > react-native link
-  > react-native run-android
+  > git clone git@github.com:vijaygehlot/RN-Restro.git
+  > cd RN-Restro
+  > yarn install
+  > yarn run android
 ```
